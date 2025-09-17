@@ -1,0 +1,9 @@
+{
+  "name": "AgriGrow",
+  "description": "An AI-powered platform for farmers in India, providing crop recommendations, information on government schemes, and market prices to help improve agricultural outcomes.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
